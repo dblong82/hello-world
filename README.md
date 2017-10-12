@@ -1,2 +1,10 @@
-# hello-world
-I'm not sure what I'm doing here
+# include <stdio.h>
+
+int main();
+
+main(void)
+{
+        printf("hey bizznatch\n");
+
+        return 0;
+}
